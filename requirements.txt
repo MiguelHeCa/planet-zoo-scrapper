@@ -1,9 +1,3 @@
-requirements.txt
-
-:Author: MiguelHeCa
-:Email: josemiguel@heca.tech
-:Date: 2023-01-13 14:20
-
 pyspark
 jupyterlab
 pandas

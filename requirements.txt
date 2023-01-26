@@ -3,3 +3,5 @@ jupyterlab
 pandas
 openpyxl
 beautifulsoup4
+psycopg2-binary
+SQLAlchemy==1.4.46
